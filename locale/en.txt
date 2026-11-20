@@ -133,4 +133,4 @@ HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left
 ### Description
 
 ### Title
-tour.name = TABOR-360
+tour.name = Občina Tabor – 360° virtualni sprehod
